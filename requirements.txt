@@ -1,0 +1,7 @@
+librosa
+soundfile
+speechbrain
+pyannote-audio
+opencv-python
+typhoon-asr
+pydub
